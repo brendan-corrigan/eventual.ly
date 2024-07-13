@@ -31,6 +31,7 @@
     - [AWS](https://aws.amazon.com/)
         - [EC2](https://aws.amazon.com/ec2/)
         - [S3](https://aws.amazon.com/s3/)
+    - [Nginx](https://docs.nginx.com/) as a webserver
 - Planned Integrations
   - [Supabase Edge Functions](https://supabase.com/edge-functions) for automated ingestion of events from providers
 
