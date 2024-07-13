@@ -1,7 +1,16 @@
 # <span style="color: #FF5733;">eventual.ly</span>
 ### <span style="color: #3498DB;">Temus AWS x Supabase Gen AI Hackathon July 2024</span>
 
+<p>
+  <a>
+    <a href="https://supabase.com">
+    <img src="https://supabase.com/badge-made-with-supabase-dark.svg" alt="Made with Supabase">
+    </a>
+  </a>
+</p>
+
 ## <span style="color: #8E44AD;">Bridge the Gap: Where Online Meets Offline, Eventual.ly</span>
+
 
 ---
 
