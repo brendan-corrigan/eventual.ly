@@ -9,8 +9,8 @@
   </a>
 </p>
 
-## <span style="color: #8E44AD;">Bridge the Gap: Where Online Meets Offline, Eventual.ly</span>
-
+## [Bridge the Gap: Where Online Meets Offline, Eventual.ly](https://www.figma.com/slides/rLw1XTMGoNGI0VhAKCsP41/eventual.ly?node-id=4-59&t=5Pmj7zOE7jYDE68p-1)
+^click to see our slides
 
 ---
 
