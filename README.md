@@ -12,6 +12,19 @@
 ## [Bridge the Gap: Where Online Meets Offline, Eventual.ly](https://www.figma.com/slides/rLw1XTMGoNGI0VhAKCsP41/eventual.ly?node-id=4-59&t=5Pmj7zOE7jYDE68p-1)
 ^click to see our slides
 
+### Our Tech Stack (Currently a WIP)
+#### Current:
+- Python
+- Supabase Vector Storage for storing the Embedded event descriptions
+- Supabase Database 
+- Fastapi
+- AWS Bedrock (Claude) for Chat
+- AWS EC2
+
+#### Planned:
+- Supabase Edge functions for automated ingestion of ongoing events
+
+
 ---
 
 ### <span style="color: #E74C3C;">Why</span>
