@@ -1,5 +1,5 @@
-# <span style="color: #FF5733;">eventual.ly</span>
-### <span style="color: #3498DB;">Temus AWS x Supabase Gen AI Hackathon July 2024</span>
+# eventual.ly
+### Temus AWS x Supabase Gen AI Hackathon July 2024
 
 <p>
   <a>
@@ -38,7 +38,7 @@
 
 ---
 
-### <span style="color: #E74C3C;">Why</span>
+### Why
 
 **<span style="color: #3498DB;">Temus AWS x SUPABASE Gen AI Hackathon July 2024</span>**
 
@@ -46,72 +46,72 @@ By leveraging our platform, users can turn virtual interactions into real-world 
 
 ---
 
-### <span style="color: #F39C12;">Introduction</span>
+### Introduction
 
 In an era dominated by digital interactions, the need for genuine, offline connections is more pronounced than ever.
 
 
 ---
 
-### <span style="color: #2ECC71;">Transforming Virtual Connections into Tangible Relationships</span>
+### Transforming Virtual Connections into Tangible Relationships
 
 Our product aims to not only foster meaningful connections online but also empower users to bring these relationships offline.
 
 ---
 
-### <span style="color: #1ABC9C;">The Power of Real-world Engagement</span>
+### The Power of Real-world Engagement
 
 Our product recognizes this dichotomy and bridges the gap, allowing users to enjoy the best of both worlds.
 
 ---
 
-### <span style="color: #9B59B6;">Enhancing Social Engagement and Local Economies</span>
+### Enhancing Social Engagement and Local Economies
 
 We empower users to actively participate in their neighborhoods, supporting local venues and initiatives.
 
 ---
 
-### <span style="color: #34495E;">We Propose</span>
+### We Propose
 
 While online platforms excel at initiating introductions, our product takes it a step further by enabling users to translate these virtual encounters into meaningful real-world relationships.
 
 ---
 
-### <span style="color: #E67E22;">WHO</span>
+### WHO
 
-**<span style="color: #3498DB;">Temus AWS x SUPABASE Gen AI Hackathon</span>**
+**Temus AWS x SUPABASE Gen AI Hackathon**
 
-- **<span style="color: #E74C3C;">Globally:</span>**
+- **<Globally:**
   - Loneliness affects around 40% of adults worldwide (Source: BBC)
   - Loneliness and social isolation have been linked to increased mortality rates (Source: American Psychological Association)
   - 1 in 3 young adults in Singapore experience loneliness (Source: SMU)
   - Elderly individuals are particularly vulnerable, with many facing social isolation due to factors like family migration or health issues (source: National Council of Social Service in Singapore)
   - The pandemic exacerbated feelings of loneliness and isolation worldwide. In Singapore, 1 in 2 respondents reported feeling lonely or socially isolated (Source: Singapore Psychological Society)
 
-- **<span style="color: #F1C40F;">Locally:</span>**
+- **Locally:**
   - **Impact of Covid-19:** 50% reported feeling lonely or socially isolated in Singapore
 
 ---
 
-### <span style="color: #3498DB;">Breaking Social Barriers</span>
+### Breaking Social Barriers
 
 In a city known for its efficiency and order, our platform introduces an element of spontaneity and discovery. By matching individuals based on shared interests rather than proximity alone, we encourage exploration of unfamiliar locales and serendipitous encounters.
 
 ---
 
-### <span style="color: #8E44AD;">Persona</span>
+### Persona
 
-**<span style="color: #3498DB;">Name:</span>** Sarah Lim  
-**<span style="color: #3498DB;">Age:</span>** 35  
-**<span style="color: #3498DB;">Occupation:</span>** Marketing Manager  
-**<span style="color: #3498DB;">Location:</span>** Singapore
+**Name:** Sarah Lim  
+**Age:** 35  
+**Occupation:** Marketing Manager  
+**Location:** Singapore
 
-**<span style="color: #E67E22;">Goals:</span>**
+**Goals:**
 - Expand her social network outside of work
 - Discover new activities and events in Singapore
 - Build lasting friendships with like-minded individuals
 
-**<span style="color: #E67E22;">Challenges:</span>**
+**Challenges:**
 - Limited time to meet new people
 - Difficulty finding events matching her interests
 - Occasionally feels isolated due to career focus
@@ -120,25 +120,25 @@ In a city known for its efficiency and order, our platform introduces an element
 
 ---
 
-### <span style="color: #1ABC9C;">From Community Connections to Personal Enrichment</span>
+### From Community Connections to Personal Enrichment
 
 Beyond facilitating social interactions, our platform serves as a catalyst for personal growth and enrichment. By connecting individuals with diverse perspectives and experiences, we foster an environment conducive to learning, collaboration, and mutual support.
 
 ---
 
-### <span style="color: #3498DB;">Visual Slide</span>
+### Visual Slide
 
-#### <span style="color: #F39C12;">For Local Businesses</span>
+#### For Local Businesses
 
 Eventual.ly enhances community connections in Singapore by matching individuals based on shared interests and personalities. Our platform facilitates seamless transitions from online interactions to real-life friendships through curated events and activities across the city. Whether you're new in town or looking to expand your social circle, Eventual.ly makes it easy to meet like-minded peers and explore diverse experiences.
 
-#### <span style="color: #E74C3C;">For The Local Community</span>
+#### For The Local Community
 
 Eventual.ly empowers local businesses in Singapore to connect with a targeted audience of community-focused individuals. By hosting tailored events that resonate with your business offerings, you can attract new customers and foster meaningful relationships. Our AI-driven platform ensures your events reach the right audience, driving foot traffic and boosting brand visibility. Join us in cultivating vibrant local communities and thriving businesses.
 
 ---
 
-### <span style="color: #9B59B6;">For Users</span>
+### For Users
 
 Central to our platform is the creation of personalized user profiles through interactive quizzes and assessments. By capturing individual personalities, interests, and preferences, we create comprehensive profiles that serve as the foundation for meaningful connections.
 
@@ -146,10 +146,10 @@ By leveraging our platform, local businesses can maximize their budget by seamle
 
 ---
 
-### <span style="color: #3498DB;">Thanks</span>
+### Thanks
 
-**<span style="color: #8E44AD;">Claire Seah:</span>** Data and AI Product Manager with a keen understanding of how AI can enhance user experiences and business outcomes and a passion for exploring the boundless potential of Generative AI. [LinkedIn](https://www.linkedin.com/in/claire-seah/)
+**Claire Seah:** Data and AI Product Manager with a keen understanding of how AI can enhance user experiences and business outcomes and a passion for exploring the boundless potential of Generative AI. [LinkedIn](https://www.linkedin.com/in/claire-seah/)
 
-**<span style="color: #8E44AD;">Mathias Beeh:</span>** HCD Manager, bringing a wealth of creativity, strategic insight and a knack for generating innovative ideas. Mathias ensures that every aspect of our product aligns seamlessly with the needs of users. [LinkedIn](https://www.linkedin.com/in/mathiasbeeh/)
+**Mathias Beeh:** HCD Manager, bringing a wealth of creativity, strategic insight and a knack for generating innovative ideas. Mathias ensures that every aspect of our product aligns seamlessly with the needs of users. [LinkedIn](https://www.linkedin.com/in/mathiasbeeh/)
 
-**<span style="color: #8E44AD;">Ong Yi Ting:</span>** Designer for Data and AI projects who transforms complex concepts into visually compelling and user-friendly experiences with her meticulous attention to detail and sharp eye for aesthetics. [LinkedIn](https://www.linkedin.com/in/yxtxng/)
+**Ong Yi Ting:** Designer for Data and AI projects who transforms complex concepts into visually compelling and user-friendly experiences with her meticulous attention to detail and sharp eye for aesthetics. [LinkedIn](https://www.linkedin.com/in/yxtxng/)
