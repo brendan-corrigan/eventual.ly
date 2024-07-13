@@ -12,17 +12,27 @@
 ## [Bridge the Gap: Where Online Meets Offline, Eventual.ly](https://www.figma.com/slides/rLw1XTMGoNGI0VhAKCsP41/eventual.ly?node-id=4-59&t=5Pmj7zOE7jYDE68p-1)
 ^click to see our slides
 
-### Our Tech Stack (Currently a WIP)
-#### Current:
-- Python
-- Supabase Vector Storage for storing the Embedded event descriptions
-- Supabase Database 
-- Fastapi
-- AWS Bedrock (Claude) for Chat
-- AWS EC2
-
-#### Planned:
-- Supabase Edge functions for automated ingestion of ongoing events
+## Our Tech Stack ⚒️
+- Frontend
+    - [React](https://react.dev/) / [Next.js](https://nextjs.org/)
+    - [Tailwind CSS](https://tailwindcss.com/)
+- Backend (WIP)
+    - [Supabase](https://supabase.com)
+      - [Database](https://supabase.com/database)
+      - [Vector Store](https://supabase.com/vector)
+      - [Auth](https://supabase.com/auth) (WIP)
+    - [FastAPI](https://fastapi.tiangolo.com/)
+    - [Docker](https://www.docker.com/)
+    - [SQLAlchemy](https://www.sqlalchemy.org/)
+    - [PGVector](https://github.com/pgvector/pgvector)
+    - [LlamaIndex 🦙](https://www.llamaindex.ai/)
+    - [AWS Bedrock](https://aws.amazon.com/bedrock/) (Claude 3 Sonnet + Titan Embeddings G1 - Text)
+- Infrastructure
+    - [AWS](https://aws.amazon.com/)
+        - [EC2](https://aws.amazon.com/ec2/)
+        - [S3](https://aws.amazon.com/s3/)
+- Planned Integrations
+  - [Supabase Edge Functions](https://supabase.com/edge-functions) for automated ingestion of events from providers
 
 
 ---
