@@ -85,15 +85,17 @@ While online platforms excel at initiating introductions, our product takes it a
 
 **Temus AWS x SUPABASE Gen AI Hackathon**
 
-- **<Globally:**
+- **Globally:**
   - Loneliness affects around 40% of adults worldwide (Source: BBC)
   - Loneliness and social isolation have been linked to increased mortality rates (Source: American Psychological Association)
+    
+- **Locally:**
   - 1 in 3 young adults in Singapore experience loneliness (Source: SMU)
   - Elderly individuals are particularly vulnerable, with many facing social isolation due to factors like family migration or health issues (source: National Council of Social Service in Singapore)
+- **Impact of Covid-19:**
   - The pandemic exacerbated feelings of loneliness and isolation worldwide. In Singapore, 1 in 2 respondents reported feeling lonely or socially isolated (Source: Singapore Psychological Society)
 
-- **Locally:**
-  - **Impact of Covid-19:** 50% reported feeling lonely or socially isolated in Singapore
+
 
 ---
 
