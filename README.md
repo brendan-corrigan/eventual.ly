@@ -12,6 +12,13 @@
 ## [Bridge the Gap: Where Online Meets Offline, Eventual.ly](https://www.figma.com/slides/rLw1XTMGoNGI0VhAKCsP41/eventual.ly?node-id=4-59&t=5Pmj7zOE7jYDE68p-1)
 ^click to see our slides
 
+
+
+https://github.com/user-attachments/assets/0c289d45-5a46-40a6-935f-19ef40ab10e6
+
+
+
+
 ## Our Tech Stack ⚒️
 - Frontend
     - [React](https://react.dev/) / [Next.js](https://nextjs.org/)
