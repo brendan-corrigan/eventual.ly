@@ -13,10 +13,7 @@
 ^click to see our slides
 
 
-
-https://github.com/user-attachments/assets/0c289d45-5a46-40a6-935f-19ef40ab10e6
-
-
+https://github.com/user-attachments/assets/19aced20-87e4-4588-adb3-6a168559ee33
 
 
 ## Our Tech Stack ⚒️
